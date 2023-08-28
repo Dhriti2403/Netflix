@@ -1,0 +1,12 @@
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix_System.exe.config
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix_System.exe
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix_System.pdb
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix.DataAccess.dll
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix.Model.dll
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix.DataAccess.pdb
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\bin\Debug\Netflix.Model.pdb
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\obj\Debug\Netflix_System.csproj.AssemblyReference.cache
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\obj\Debug\Netflix_System.csproj.CoreCompileInputs.cache
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\obj\Debug\Netflix_System.csproj.CopyComplete
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\obj\Debug\Netflix_System.exe
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix_System\obj\Debug\Netflix_System.pdb

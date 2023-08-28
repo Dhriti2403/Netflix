@@ -1,0 +1,6 @@
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix.Model\bin\Debug\Netflix.Model.dll
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix.Model\bin\Debug\Netflix.Model.pdb
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix.Model\obj\Debug\Netflix.Model.csproj.AssemblyReference.cache
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix.Model\obj\Debug\Netflix.Model.csproj.CoreCompileInputs.cache
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix.Model\obj\Debug\Netflix.Model.dll
+C:\Users\dhriti.patel\source\repos\Netflix_System\Netflix.Model\obj\Debug\Netflix.Model.pdb
