@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Netflix.Model
 {
-    public class PaymentModel : EntityBase<int, DateTime>
+    public class PaymentModel : EntityBase<int>
     {
         public string PaymentType { get; set; }
     }

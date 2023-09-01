@@ -19,7 +19,7 @@ namespace Netflix.DataAccess
             SqlCommand cmd = new SqlCommand(query, sqlConnetion);
 
             sqlConnetion.Open();
-
+    
             int rowaffected = cmd.ExecuteNonQuery();
             sqlConnetion.Close();
 

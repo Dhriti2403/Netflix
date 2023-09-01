@@ -46,6 +46,7 @@
     <Compile Include="InsertMovie.cs" />
     <Compile Include="InsertPayment.cs" />
     <Compile Include="InsertRating.cs" />
+    <Compile Include="InsertSubsciptionPlan.cs" />
     <Compile Include="InsertSubscription.cs" />
     <Compile Include="InsertUserDetail.cs" />
     <Compile Include="InsertUserHistory.cs" />

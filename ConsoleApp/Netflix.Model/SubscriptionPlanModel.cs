@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Netflix.Model
 {
-    public class UserHistoryModel : EntityBase<int>
+    public class SubscriptionPlanModel:EntityBase<int>
     {
-        public int UserId { get; set; }
-        public int MovieId { get; set; }
-        public DateTime Timestamp { get; set; }
+        public string PlanName { get; set; }
+
+        public decimal PlanCharge { get; set; }
     }
 }

@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Netflix.Model.EntityBase
 {
-    public class EntityBase<T, V>
+    public class EntityBase<T>
     {
         public T Id { get; set; }
-
-        public V CreatedOn { get; set; }
 
     }
 }

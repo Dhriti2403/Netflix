@@ -26,13 +26,14 @@ namespace Netflix_System
             //    InsertGenresType obj = new InsertGenresType();
             //    obj.InsertGenresTypeData();
 
-            //new InsertMovie().InsertMovieData();
+           new InsertMovie().InsertMovieData();
             //new InsertPayment().InsertPaymentData();
             // new InsertSubscription().InsertSubscriptionData();
 
             //new InsertWatchList().InsertWatchListData();
             //new InsertRating().InsertRatingData();
-            new InsertUserHistory().InsertUserHistoryData();
+            //  new InsertUserHistory().InsertUserHistoryData();
+            new InsertSubsciptionPlan().InsertPlanData();
         }
     }
 }

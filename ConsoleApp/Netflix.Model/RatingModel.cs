@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Netflix.Model
 {
-    public class RatingModel : EntityBase<int, DateTime>
+    public class RatingModel : EntityBase<int>
     {
         public int UserId { get; set; }
         public int MovieId { get; set; }

@@ -24,10 +24,7 @@ namespace Netflix.DataAccess
             int rowaffected = cmd.ExecuteNonQuery();
             sqlConnetion.Close();
 
-            if (rowaffected == 1)
-            {
-                //success
-            }
+            
 
         }
 
@@ -51,10 +48,7 @@ namespace Netflix.DataAccess
             int rowaffected = cmd.ExecuteNonQuery();
             sqlconnection.Close();
 
-            if (rowaffected == 1)
-            {
-                //success
-            }
+            
 
         }
 

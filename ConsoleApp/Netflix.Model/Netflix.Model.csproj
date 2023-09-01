@@ -48,6 +48,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RatingModel.cs" />
     <Compile Include="SubscriptionModel.cs" />
+    <Compile Include="SubscriptionPlanModel.cs" />
     <Compile Include="UserDetailModel.cs" />
     <Compile Include="UserHistoryModel.cs" />
     <Compile Include="WatchListModel.cs" />

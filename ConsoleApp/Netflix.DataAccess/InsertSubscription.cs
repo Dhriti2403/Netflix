@@ -13,7 +13,7 @@ namespace Netflix.DataAccess
         public void InsertSubscriptionData()
         {
             SqlConnection sqlConnetion = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString());
-            string query = "Insert into Subscription values(303,'Trial',199,3,1002,'2023-04-10','2023-05-09')";
+            string query = "Insert into Subscription values(303,3,1002,'2023-04-10','2023-05-09',703)";
 
 
             SqlCommand cmd = new SqlCommand(query, sqlConnetion);
@@ -21,7 +21,7 @@ namespace Netflix.DataAccess
             sqlConnetion.Open();
 
             int rowaffected = cmd.ExecuteNonQuery();
-            sqlConnetion.Close();
+            sqlConnetion.Close();     
 
         }
     }
