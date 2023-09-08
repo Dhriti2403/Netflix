@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetflixHistory", "NetflixHistory\NetflixHistory.csproj", "{5A49F16C-4505-4454-A04D-1F9EE7E30453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netflix.DataAccess", "..\Netflix_System\Netflix.DataAccess\Netflix.DataAccess.csproj", "{5236AFFB-291C-4A57-A01A-A0DF5F6E9021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netflix.Model", "..\Netflix_System\Netflix.Model\Netflix.Model.csproj", "{1A598AD5-B3B1-46F7-AD60-A5F307503B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A49F16C-4505-4454-A04D-1F9EE7E30453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A49F16C-4505-4454-A04D-1F9EE7E30453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A49F16C-4505-4454-A04D-1F9EE7E30453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A49F16C-4505-4454-A04D-1F9EE7E30453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5236AFFB-291C-4A57-A01A-A0DF5F6E9021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5236AFFB-291C-4A57-A01A-A0DF5F6E9021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5236AFFB-291C-4A57-A01A-A0DF5F6E9021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5236AFFB-291C-4A57-A01A-A0DF5F6E9021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A598AD5-B3B1-46F7-AD60-A5F307503B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A598AD5-B3B1-46F7-AD60-A5F307503B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A598AD5-B3B1-46F7-AD60-A5F307503B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A598AD5-B3B1-46F7-AD60-A5F307503B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E537FC-4E27-46C8-A948-B3FFF682E909}
+	EndGlobalSection
+EndGlobal
